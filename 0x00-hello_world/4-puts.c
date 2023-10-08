@@ -1,3 +1,11 @@
+/**
+ *
+ * main - this is the main function
+ *
+ * Return - Always 0
+ *
+ */
+
 #include <stdio.h>
 
 int main(void)
