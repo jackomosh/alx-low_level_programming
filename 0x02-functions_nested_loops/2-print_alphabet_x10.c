@@ -2,7 +2,7 @@
 /*
  * print_alphabet_x10 - entry point
  * print_alphabet_x10 - prints alphabet in lowercase 10x
- * Return:void
+ * Return: void
  */
 void print_alphabet_x10(void)
 {
