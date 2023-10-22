@@ -2,7 +2,7 @@
 
 /**
  * main - check the code.
- *
+ * print_times_table - prints times table
  * Return: Always 0.
  */
 int main(void)
